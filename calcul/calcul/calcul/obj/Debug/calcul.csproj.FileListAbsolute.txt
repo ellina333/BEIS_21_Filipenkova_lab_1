@@ -1,0 +1,9 @@
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\bin\Debug\calcul.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\bin\Debug\calcul.exe
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\bin\Debug\calcul.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.exe
+c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.pdb
