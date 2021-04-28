@@ -7,3 +7,6 @@ c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\
 c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.Cache
 c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.exe
 c:\users\юлия\documents\visual studio 2013\Projects\calcul\calcul\obj\Debug\calcul.pdb
+C:\Projects\BEIS_21_Filipenkova_lab_1\calcul\calcul\calcul\bin\Debug\calcul.exe.config
+C:\Projects\BEIS_21_Filipenkova_lab_1\calcul\calcul\calcul\obj\Debug\calcul.exe
+C:\Projects\BEIS_21_Filipenkova_lab_1\calcul\calcul\calcul\obj\Debug\calcul.pdb

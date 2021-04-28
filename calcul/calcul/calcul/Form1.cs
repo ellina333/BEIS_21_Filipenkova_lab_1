@@ -17,39 +17,39 @@ namespace calcul
             InitializeComponent();
         }
 
-        public static double sum(double a, double b)
+        public static int sum(int a, int b)
         {
             return a + b;
         }
 
-        public static double razn(double a, double b)
+        public static int razn(int a, int b)
         {
             return a - b;
         }
 
-        public static double umnog(double a, double b)
+        public static int umnog(int a, int b)
         {
             return a * b;
         }
 
-        public static double del(double a, double b)
+        public static int del(int a, int b)
         {
             return a / b;
         }
 
-        public static double step(double a, double b)
+        public static int step(int a, int b)
         {
             return Math.Pow(a, b);
         }
 
-        public static double koren(double a, double b)
+        public static int koren(int a, int b)
         {
             return Math.Pow(a, 1/b);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox3.Text = Convert.ToString(sum(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            textBox3.Text = Convert.ToString(sum(Convert.ToInt(textBox1.Text), Convert.ToInt(textBox2.Text)));
         }
 
         private void button2_Click(object sender, EventArgs e)
